@@ -25,7 +25,7 @@ To create sustainable, AI-powered automation tools for **environmental clean-up*
 - **Simulation**: NVIDIA Isaac Sim (Omniverse)
 - **Reinforcement Learning**: NVIDIA Isaac Lab (Omniverse)
 - **Robotics**: Franka Emika Panda(Prototype)
-- **AI Models**: YOLOv8 for vision, PPO for control
+- **AI Models**: YOLOv11 for vision, PPO for control
 - **Languages**: Python, Isaac Script API
 - **Digital Twin Concept**: Real-world feedback mirrored in simulated environments for training and testing
 
